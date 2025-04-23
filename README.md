@@ -1,5 +1,5 @@
 # signal-pref_divergence
-code and data associated to the manuscript titled "Interacting phenotypes and signal-preference divergence: On the origin of social plasticity that may promote speciation" by Camille Desjonquères, Bretta Speck, Sara Seidita, Lauren A. Cirino, Ignacio Escalante, Nathan W. Bailey, Rafael L. Rodríguez 
+code and data associated to the manuscript titled "Interacting phenotypes and the origins of signal-preference divergence via social plasticity" by Camille Desjonquères, Bretta Speck, Sara Seidita, Lauren A. Cirino, Ignacio Escalante, Nathan W. Bailey, Rafael L. Rodríguez 
 
 This repository contains 9 files:
 - three data tables

@@ -54,7 +54,7 @@ pch=16
 lf.rows <- which(xdata.aggreg$sp=='LF')
 hf.rows <- which(xdata.aggreg$sp=='HF')
   
-jpeg("Figure2.jpg", width = 6000, height = 5000, units = 'px', res=1000)
+jpeg("Figure1.jpg", width = 6000, height = 5000, units = 'px', res=1000)
 layout(mat = matrix(c(1,2), nrow = 2, byrow = TRUE), heights = c(1,4))
 par(mar=c(0, 0, 0, 0), xpd=TRUE)
 
